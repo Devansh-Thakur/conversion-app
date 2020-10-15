@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Miles to Kilometer app</string>
-    <string name="convert_kilometer">convert</string>
+    <string name="convert_kilometer">Convert to KM</string>
+    <string name="convert_miles">Convert to Miles</string>
     <string name="enter_miles">Enter miles</string>
-    <string name="enter_kilo">Enter kilometers</string>
+    <string name="enter_value">Enter Value</string>
     <string name="converted_value">converted</string>
 </resources>
